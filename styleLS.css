@@ -1,0 +1,19 @@
+/*Components Design// me permite trabajar con una hoja de ccs por cada componente*/
+@import url("banner.css");
+@import url("button.css");
+@import url("navbar.css");
+@import url("footer.css");
+
+body {
+    color: white;
+    background-color:rgba(0, 0, 0, 0.2);
+
+}
+
+h1, h2, h3, h4, h5 {
+    color: black;
+}
+
+a, p {
+    color: blue;
+}
